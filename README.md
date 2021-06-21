@@ -1,6 +1,6 @@
 # Computer_Graphics_Ball_Game
 Unity를 활용한 공굴리기 게임
-<h3>게임 실행 방법
+<게임 실행 방법>
 <ol>
 <li>Unity 설치 필수</li>
 <li>러닝볼 폴더 내 RunningBall.exe 실행</li>
